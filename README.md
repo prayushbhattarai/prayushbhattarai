@@ -1,6 +1,5 @@
 # 💫 About Me:
-Right now I’m mainly working on PneuFlex, an AI-powered pneumatic rehabilitation sleeve for muscle atrophy patients. It uses TinyML intent recognition, embedded sensing, and a custom PCB to assist upper-limb movement. I’m also building an educational electrical engineering platform and working on AI hardware acceleration projects.
-
+Right now I’m mainly working on PneuFlex, an AI-powered pneumatic rehabilitation sleeve for muscle atrophy patients. It uses TinyML intent recognition, embedded sensing, and a custom PCB to assist upper-limb movement. I’m also building a manim library for graph signal processing concepts>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p.rayush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prayush-bhattarai-a35b0a372) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prayush.bhattarai9@gmail.com) 
